@@ -1,7 +1,7 @@
 use std::io; // подключаем библиотеку ввода вывода
 
 fn main() {
-    let mut user_data = String::new(); // создаем пустую  строку
+    let mut user_data = String::new(); // создаем пустую строку
     
     println!("Напечатай число");
     io::stdin().read_line(&mut  user_data).expect("Не удалось прочитать строку");
