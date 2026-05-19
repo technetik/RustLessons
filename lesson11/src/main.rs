@@ -17,7 +17,7 @@ fn main() {
     println!("Вы ввели число: {}", number);
 
 
-    // Треугольник №1 (цикл 1) 
+    // Треугольник №1 (цикл 1) //
     let mut word1 = String::new();
     let mut a = 0;
 
