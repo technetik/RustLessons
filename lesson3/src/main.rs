@@ -1,3 +1,21 @@
 fn main() {
-    println!("Hello, world!");
+    // Область видимости Scopes
+
+    // Пример 1
+    let price = 100;
+    {
+        let price = 400;
+        println!("Price {price}"); // 400
+    }
+    println!("Price {price}");  // 100
+
+    // Пример 2
+    let y = 2023;
+    let y = y + 1;
+    {
+        let y = y - 24;
+        println!("{y}"); // 2000
+    }
+    println!("{y}"); // 2024
+
 }
