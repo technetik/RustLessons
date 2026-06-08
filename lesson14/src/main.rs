@@ -43,7 +43,7 @@ fn main() {
     match number2 {
         value if value % 2 == 0 => println!("{value} is an even number"),
         value if value % 2 != 0 => println!("{value} is an odd"),
-        _=> unreachable!(),
+        _=> unreachable!(), // не будет выполнен
     }
 
 }
