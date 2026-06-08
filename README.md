@@ -10,6 +10,7 @@
 8. [Тип Кортеж. Tuple.](lesson8/src/main.rs) 
 9. [Диапазоны и итерация по диапазонам](lesson9/src/main.rs)  
 10. [Тип Strings и Raw Strings](lesson10/src/main.rs) 
+11. [В языке Rust нет классического тернарного оператора ? :, но есть его аналог](lesson13/src/main.rs) 
 
 
 
