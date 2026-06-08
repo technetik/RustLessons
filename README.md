@@ -11,6 +11,7 @@
 9. [Диапазоны и итерация по диапазонам](lesson9/src/main.rs)  
 10. [Тип Strings и Raw Strings](lesson10/src/main.rs) 
 11. [В языке Rust нет классического тернарного оператора ? :, но есть его аналог](lesson13/src/main.rs) 
+12. [Конструкция match в Rust — это мощный аналог switch-case](lesson14/src/main.rs) 
 
 
 
