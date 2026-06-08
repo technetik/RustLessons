@@ -14,5 +14,5 @@
 
 
 #Задачи и Примеры Rust
-1. [...](lesson11/src/main.rs)  
-1. [...](lesson12/src/main.rs)  
+1. [Задача 4х треугольников](lesson11/src/main.rs)  
+1. [Пример web сервера](lesson12/src/main.rs)  
