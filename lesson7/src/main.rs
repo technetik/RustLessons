@@ -1,4 +1,5 @@
 fn main() {
+    // Массивы
     let arr1: [i32; 5] = [10, 20, 30 ,40, 50];
     let arr2 = ["test1", "test2", "test3"];
 
