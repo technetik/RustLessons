@@ -10,3 +10,9 @@
 8. [Тип Кортеж. Tuple.](lesson8/src/main.rs) 
 9. [Диапазоны и итерация по диапазонам](lesson9/src/main.rs)  
 10. [Тип Strings и Raw Strings](lesson10/src/main.rs) 
+
+
+
+#Задачи и Примеры Rust
+1. [...](lesson11/src/main.rs)  
+1. [...](lesson12/src/main.rs)  
