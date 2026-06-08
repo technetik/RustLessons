@@ -38,6 +38,12 @@ fn main() {
         _ => println!("Другой возраст"),
     }
 
-
+    // Пример 5
+    let number2 = 3;
+    match number2 {
+        value if value % 2 == 0 => println!("{value} is an even number"),
+        value if value % 2 != 0 => println!("{value} is an odd"),
+        _=> unreachable!(),
+    }
 
 }
