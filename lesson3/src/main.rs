@@ -12,6 +12,7 @@ fn main() {
     // Пример 2
     let y = 2023;
     let y = y + 1;
+    // внутри блока своя область видимости
     {
         let y = y - 24;
         println!("{y}"); // 2000
@@ -25,5 +26,6 @@ fn main() {
         let num2 = 5 + 15;
         num1 * num2
     };
+    println!("{calc}")
 
 }

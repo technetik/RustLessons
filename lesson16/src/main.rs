@@ -34,9 +34,20 @@ fn main() {
     let fish: String = eat_meal(dinner);
     println!("{fish}");
 
+    // Передаем ссылку на сроку, передача владения не происходит
+    // и test11 по прежнему доступна
+    // Это заимствование, право владения не передается
+    let test11: String = String:: from ("Salmon1");
+    eat_meal_11(&test11);
+    println!("{test11}");
+
 }
 
 fn eat_meal(mut meal: String) -> String {
     meal.clear();
     meal
+}
+
+fn eat_meal_11(meal: &String) {
+    println!("Up Up {meal}");
 }

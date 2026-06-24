@@ -1,5 +1,5 @@
 fn main() {
-    // Strings &str and Raw Strings &str
+    // Strings, &str and Raw Strings &str
     let _path ="C:\\Users\\name\\documents"; // экранируем слэши или пример ниже 
     let path = r"C:\Users\name\documents"; // слэши остаются обычными слэшами
     println!("{path}");
