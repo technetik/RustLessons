@@ -14,7 +14,7 @@
 12. [Конструкция match в Rust — это мощный аналог switch-case](lesson14/src/main.rs) 
 13. [Рекурсия в Rust](lesson15/src/main.rs) 
 14. [Заимствование и ссылки, разыменование](lesson16/src/main.rs) 
-
+15. [Четырех концепций передачи владения и заимствования в Rust](lesson17/src/main.rs)
 
 
 #Задачи и Примеры Rust
