@@ -19,7 +19,9 @@
 17. [Владение и заимствование. Примеры с массивами](lesson19/src/main.rs)
 18. [Срез строки в Rust](lesson20/src/main.rs)
 19. [Срез строки, как параметры функции](lesson21/src/main.rs)
-20. [Срез массива в Rust](lesson22/src/main.rs)
+20. [Срез массива и изменяемый срез массива в Rust](lesson22/src/main.rs)
+21. [Срез массива, как параметры функции](lesson23/src/main.rs)
+22. [Структуры в Rust](lesson23/src/main.rs)
 
 
 #Задачи и Примеры Rust
