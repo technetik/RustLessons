@@ -27,7 +27,7 @@ fn main() {
      //срез строки с 0 по 4 байт.
      let test_name: &str = &action_hero1[..5];
      println!("{test_name}");
-     // срез строки с 6 по 1 байт.
+     // срез строки с 6 по 11 байт.
      let test_name: &str = &action_hero1[6..];
      println!("{test_name}");
     // срез строки, вся строка.
