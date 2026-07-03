@@ -27,4 +27,5 @@ fn main() {
     robusta.name = String::from("Robusta One");
     robusta.price = 100.99;
     println!("{},{},{}", robusta.name, robusta.price, robusta.is_hot);
+    
 }
