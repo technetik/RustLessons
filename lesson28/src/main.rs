@@ -18,17 +18,7 @@ impl Users{
 }
 
 fn main() {
-    let user1 = Users{
-        name: String::from("Вася"),
-        age: 32,
-        year: 1991,
-    };
 
-    user1.print_user();
-        let user2 = Users{
-        name: String::from("Петя"),
-        age: 29,
-        year: 1991,
-    };
-    user2.year_plus();
+
+
 }
