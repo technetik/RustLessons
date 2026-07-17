@@ -14,6 +14,10 @@ impl Users{
     /*
     Чтобы объект можно было использовать многократно, в аргументах методов 
     обычно используют ссылки: fn print_user(&self) и fn year_plus(&mut self).
+    // self
+    // mut self
+    // &self
+    // &mut
      */
     fn print_user(self){
         println!("Имя: {}", self.name);
