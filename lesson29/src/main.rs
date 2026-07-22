@@ -11,6 +11,13 @@ impl Users{
         Self { name, year, height }
     }
 
+    /*
+    // альтернативный синтаксис
+    fn new(name: String, year: u32, height: u32) -> User{
+        User { name, year, height }
+    }
+    */
+
     fn print_user(&self){
         println!("Имя: {}", self.name);
         println!("Возраст: {}", self.calc_age()); // вызываем метод внутри метода
