@@ -27,6 +27,7 @@
 25. [Реализация методов для структуры. implementation](lesson27/src/main.rs)
 26. [Вызов методов внутри меиода. ](lesson28/src/main.rs)
 27. [Связанные функции](lesson29/src/main.rs)
+27. [Паттерн Builder. (строитель)](lesson30/src/main.rs)
 
 
 #Задачи и Примеры Rust
